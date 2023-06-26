@@ -11,7 +11,6 @@
   <a href="https://twitter.com/bundle_blast">Twitter</a>
 </h3>
 
-</br>
 <p align="center">Craft your next surprise with #bundleblast - a gifting platform for digital assets & tokens</p>
 <p align="center">
     📦🌪
