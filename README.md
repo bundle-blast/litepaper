@@ -1,6 +1,9 @@
 <h1 align="center">
-    Bundle Blast 📦🌪
+    Bundle Blast
 </h1>
+<h2 align="center">
+    📦🌪
+</h2>
 
 
 <h3 align="center">
@@ -11,8 +14,9 @@
   <a href="https://twitter.com/bundle_blast">Twitter</a>
 </h3>
 
-Craft your next surprise with #bundleblast - a gifting platform for digital assets & tokens
+<p align="center">Craft your next surprise with #bundleblast - a gifting platform for digital assets & tokens</p>
 
+</br>
 </br>
 
 The Bundle Blast's litepaper is available in the [wiki section](https://github.com/bundle-blast/litepaper/wiki).
