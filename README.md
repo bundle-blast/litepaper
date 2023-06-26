@@ -1,9 +1,6 @@
 <h1 align="center">
     Bundle Blast
 </h1>
-<h2 align="center">
-    📦🌪
-</h2>
 
 
 <h3 align="center">
@@ -14,6 +11,10 @@
   <a href="https://twitter.com/bundle_blast">Twitter</a>
 </h3>
 
+</br>
+<p align="center">
+    📦🌪
+</p>
 <p align="center">Craft your next surprise with #bundleblast - a gifting platform for digital assets & tokens</p>
 
 </br>
