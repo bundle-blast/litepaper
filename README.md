@@ -12,10 +12,10 @@
 </h3>
 
 </br>
+<p align="center">Craft your next surprise with #bundleblast - a gifting platform for digital assets & tokens</p>
 <p align="center">
     📦🌪
 </p>
-<p align="center">Craft your next surprise with #bundleblast - a gifting platform for digital assets & tokens</p>
 
 </br>
 </br>
